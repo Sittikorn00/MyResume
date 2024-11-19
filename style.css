@@ -1,0 +1,44 @@
+body {
+    font-family: 'Prompt', sans-serif;
+    background-color: #f9f9f9;
+    color: #343a40;
+    line-height: 1.8;
+}
+
+header img {
+    border: 3px solid white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1, h2 {
+    font-weight: 700;
+}
+
+p, li {
+    font-size: 1rem;
+}
+
+hr {
+    width: 50%;
+    margin: auto;
+    border: 1px solid #dee2e6;
+}
+
+ul, ol {
+    padding-left: 0;
+}
+
+ul.list-inline li span {
+    padding: 0.5rem 1rem;
+    border-radius: 30px;
+    font-size: 1rem;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+}
